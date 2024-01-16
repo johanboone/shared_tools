@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>VTTITools</Name>
+		<FullClassName>VTTITools.RibbonHandler</FullClassName>
+		<Text>VTTITools</Text>
+		<Description>Collection of tools for managing VTTI elements in Revit</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>VTTITools.dll</Assembly>
+		<AddInId>b8c12ff6-e2cf-4a0a-99b3-cf1eecbb2321</AddInId>
+		<VendorId>BOOJ5</VendorId>
+		<VendorDescription>Johan Boone</VendorDescription>
+	</AddIn>
+</RevitAddIns>
